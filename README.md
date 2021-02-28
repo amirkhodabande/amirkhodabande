@@ -4,7 +4,7 @@ _I'm a happy developer who loves Laravel and Flowers._
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amirkhodabande&theme=dracula)
 
-**Amir has some skills in Frontend development(Bootstrap,TailwindCss), php(Laravel), JavaScript(VueJs).**
+**Amir has some skills in Frontend development(Bootstrap,TailwindCss), JavaScript(VueJs) and Backend development (php, Laravel).**
 
 _He also becomes an energetic person when he works with professionals, and he tries hard to learn from them as much as possible._
 
