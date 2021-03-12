@@ -17,4 +17,4 @@ _He also becomes an energetic person when he works with professionals, and he tr
 - 🌱 I’m currently trying to learn critical skills to become a DevOps engineer
 - 🤔 I’m looking for help in Frontend
 - 💬 Ask me about Backend
-- 📫 How to reach me: Telegram => amir_81dp
+- 📫 How to reach me: Linkedin=> https://www.linkedin.com/in/amir-khodabande-600b031b9
