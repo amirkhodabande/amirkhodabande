@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_I'm a happy developer who love Laravel and Flowers._
+_I'm a happy developer who loves Laravel and Flowers._
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amirkhodabande&theme=dracula)
 
