@@ -13,5 +13,4 @@ _He also becomes an energetic person when he works with professionals, and he tr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirkhodabande&layout=compact&theme=dracula)
 
 
-- 🔭 I’m currently trying to become better
 - 📫 How to reach me: Linkedin=> https://www.linkedin.com/in/amir-khodabande-600b031b9
