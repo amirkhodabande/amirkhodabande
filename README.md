@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_I'm a happy programmer who has skills in PHP with about 4 years of experience in programming.
+_I'm a happy programmer who has skills in PHP and GO with about 4 years of experience in programming.
 I've gotten into a kind of emotional relationship with Linux tools, and I enjoy learning and
 using them, especially while working on production servers._
 
